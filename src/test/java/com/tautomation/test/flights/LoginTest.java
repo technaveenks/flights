@@ -9,6 +9,10 @@ public class LoginTest {
 		
 	}
 	
+	public void createEmail(){
+		System.out.println("Create Email");
+	}
+	
 	public static void main(String args[]){
 		
 		System.out.println("Naviagted");
